@@ -1,1 +1,3 @@
-# freebase-toolkit
+﻿# freebase-toolkit
+
+Referenced by https://github.com/nchah/freebase-triples and the scripts are updateing continuously, the entire changes and instructions will be released later...
